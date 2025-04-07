@@ -1,5 +1,7 @@
-# sample
-## Projects
+# Data Analyst
+### Projects
 * 1
 * 2
-## skills
+### skills
+### education
+ - MSCS
