@@ -10,6 +10,7 @@ $font-family: "Arial, sans-serif"; // Custom font
 body {
   background-color: $background-color; // Apply custom background color
   font-family: $font-family; // Apply custom font
+  color: $primary-color; // set default text color
 }
 
 a {
