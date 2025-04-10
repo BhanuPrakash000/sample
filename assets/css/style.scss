@@ -1,15 +1,28 @@
+---
+---
 $primary-color: #ff6600; // Overrides the theme's primary color
+$background-color: #f0f0f0; // Custom background color
+$font-family: "Arial, sans-serif"; // Custom font
 
+@import "{{ site.theme }}"; // Import the default theme styles
 
-@import "{{ site.theme }}";
-
+// Custom styles for your site
 body {
-  background-color: #f0f0f0; // Custom background color
-  font-family: Arial, sans-serif; // Custom font
+  background-color: $background-color; // Apply custom background color
+  font-family: $font-family; // Apply custom font
 }
 
 a {
-  color: #0066cc; // Change link color
+  color: $primary-color; // Change link color to custom primary color
+  text-decoration: none; // Remove underline from links
 }
 
+h1, h2, h3, h4, h5, h6 {
+  color: $primary-color; // Apply custom primary color to headings
+}
 
+nav {
+  background-color: $primary-color; // Change navbar background color
+  color: #ffffff; // Set navbar text color to white
+  padding: 10px; // Add padding to navbar
+}
