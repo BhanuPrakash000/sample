@@ -2,11 +2,13 @@
 
 ## Education
 Texas A&M University - Kingsville (May 2025)
+
 Masters In Computer Science
   - Relevant Coursework : Algorithm Analysis, Data Structures, Computer Organization and Architecture, Computer
     Networks, Operating Systems, Object Oriented Programming, Discrete Mathematics, Linear Algebra, Database Systems.
 
 Amrita School Of Engineering (July 2023)
+
 Bachelors In Electronics And Communication Engineering
   - Relevant Coursework :  Database Management Systems,Machine Learning, Computer Networks, Analog Circuits, Linear Integrated Circuits
 , Digital Electronics .
