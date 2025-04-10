@@ -2,7 +2,7 @@
 ---
 $primary-color: #f5f5f5; // Overrides the theme's primary color
 $background-color: #363131; // Custom background color
-$font-family: "Times New Roman", serif; // Custom font
+$font-family: "Times New Roman, serif"; // Custom font
 
 @import "{{ site.theme }}"; // Import the default theme styles
 
