@@ -1,0 +1,15 @@
+$primary-color: #ff6600; // Overrides the theme's primary color
+
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #f0f0f0; // Custom background color
+  font-family: Arial, sans-serif; // Custom font
+}
+
+a {
+  color: #0066cc; // Change link color
+}
+
+
