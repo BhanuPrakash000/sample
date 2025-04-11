@@ -11,15 +11,18 @@ body {
   background-color: $background-color; // Apply custom background color
   font-family: $font-family; // Apply custom font
   color: $primary-color; // set default text color
+  font-size: 16px; // Replace with desired size
 }
 
 a {
   color: #ffffff; // Change link color to custom primary color
   text-decoration: underline; // Remove underline from links
+  font-size: 14px; // Replace with desired size
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: $primary-color; // Apply custom primary color to headings
+  font-size: 24px; // Replace with desired size
 }
 
 nav {
